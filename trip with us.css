@@ -185,6 +185,7 @@ a {
     /* border: 2px solid rgb(0, 112, 209); */
     border-radius: 20px;
     position: relative;
+    overflow: hidden;
     /* left: 2vw; */
     top: 20vh;
     box-shadow: 0px 5px 22px rgba(16, 63, 232, 0.963),
